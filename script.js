@@ -29,10 +29,7 @@ const checkTest = () => {
 		if (a5 === '36') {
 			result++
 		}
-		// alert('количество правильных ответов ' + result)
 		console.log(`количество правильных ответов ${result}`)
 	})
 }
 checkTest()
-
-// button.addEventListener('click', checkTest)
